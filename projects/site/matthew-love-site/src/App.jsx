@@ -9,8 +9,8 @@ function App() {
   return (
     <>
       <div className="welcomeMessage">
-        <h1>Welcome to Matthew Love's website!</h1>
-        <p>It's a little empty right now. More to come soon!</p>
+        <h1>Welcome to Matthew Love&apos;s website!</h1>
+        <p>It&apos;s a little empty right now. More to come soon!</p>
       </div>
       <div>
         <p>This website was made with Vite + React:</p>
@@ -22,7 +22,7 @@ function App() {
         </a>
       </div>
       <div className="card">
-        <p>Here's a cool button. What happens when you press it?</p>
+        <p>Here&apos;s a cool button. What happens when you press it?</p>
         <button onClick={() => setCount(count <= 1 ? (count) => count + 1 : (count) => count * count)}>
           count is {count}
         </button>
