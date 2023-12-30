@@ -13,7 +13,7 @@ function App() {
         <p>It&apos;s a little empty right now. More to come soon!</p>
       </div>
       <div>
-        <p>This website was made with Vite + React:</p>
+        <p>This website is made with Vite + React:</p>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
